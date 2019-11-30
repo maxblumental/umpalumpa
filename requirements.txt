@@ -1,1 +1,4 @@
 pandas
+pymorphy2
+transliterate
+snorkel
